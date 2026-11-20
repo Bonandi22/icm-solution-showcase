@@ -5,7 +5,7 @@ non-profit organisation with multiple churches. It manages members, monthly fina
 contributions, expenses, purchase requests, events and inventory.
 
 > **Why this repository exists.** The source code lives in a private repository because the system
-> is designed for real member and financial data. This showcase documents the architecture, the
+> holds real member and financial data. This showcase documents the architecture, the
 > security decisions and a few representative excerpts of the real code. I am happy to walk
 > through the full codebase in an interview.
 
@@ -15,8 +15,8 @@ contributions, expenses, purchase requests, events and inventory.
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3-FF6600?logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
 
-**Status:** feature-complete for the first rollout and preparing for production (VPS, HTTPS via
-Caddy, production secrets). Author and maintainer: [Elker Bonandi](https://github.com/Bonandi22).
+**Status:** in use by the organisation with real data. The hardened production deployment (VPS,
+HTTPS via Caddy, production secrets) is in progress. Author and maintainer: [Elker Bonandi](https://github.com/Bonandi22).
 
 ---
 
